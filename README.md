@@ -1,4 +1,4 @@
-# Olá, eu sou o Leandro Rafael Leite! 👋
+# Olá! Seja bem-vindo(a) ao meu portfólio de Análise de Dados!👋
 
 <p align="left">
   Analista de Dados e Business Intelligence motivado por solucionar problemas e em constante aprendizado (lifelong learner). Meu foco é transformar dados em insights acionáveis que suportam a tomada de decisão estratégica e impulsionam resultados.
