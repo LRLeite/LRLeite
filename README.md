@@ -18,15 +18,16 @@
 </p>
 
 ---
-### Power BI Dashboards <div id="header" align="center">
-  <h1>Power BI Dashboards <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/></h1>
+
+<div id="header" align="center"><h1>Power BI Dashboards<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/></h1>
 </div>
 
 <p align="left">
   <a href="https://www.behance.net/LRLeite">
     <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
----
+
+  ---
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
