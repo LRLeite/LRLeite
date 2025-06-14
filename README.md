@@ -43,14 +43,4 @@
   <!-- Automação -->
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier">
   <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-
----
-
-### 📊 Estatísticas do GitHub
-<!-- As estatísticas são atualizadas automaticamente -->
-<p align="center">
-  <a href="https://github.com/LRLeite">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LRLeite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRLeite&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
 </p>
