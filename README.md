@@ -18,7 +18,9 @@
 </p>
 
 ---
-### <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> Power BI Dashboards
+### Power BI Dashboards <div id="header" align="center">
+  <h1>Data Analytics <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" title="Data Analytics" alt="Data Analytics" width="40" height="40"/></h1>
+</div>
 <p align="left">
   <a href="https://www.behance.net/LRLeite">
     <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
