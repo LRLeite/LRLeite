@@ -1,7 +1,7 @@
 # Olá, eu sou o Leandro Rafael Leite! 👋
 
 <p align="left">
-  Analista de Dados e Business Intelligence motivado por solucionar problemas complexos e em constante aprendizado (lifelong learner). Meu foco é transformar dados em insights acionáveis que suportam a tomada de decisão estratégica e impulsionam resultados.
+  Analista de Dados e Business Intelligence motivado por solucionar problemas e em constante aprendizado (lifelong learner). Meu foco é transformar dados em insights acionáveis que suportam a tomada de decisão estratégica e impulsionam resultados.
 </p>
 
 ---
@@ -37,11 +37,6 @@
   <!-- Automação -->
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier">
   <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-
-  <!-- Outras Ferramentas -->
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-</p>
 
 ---
 
