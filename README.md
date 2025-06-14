@@ -11,11 +11,18 @@
   <a href="https://www.linkedin.com/in/leandro-rafael-leite/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
   <a href="mailto:leandro.rafael91@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
   </a>
 </p>
 
+---
+### <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> Power BI Dashboards
+<p align="left">
+  <a href="https://www.behance.net/LRLeite">
+    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
+  </a>
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
