@@ -19,15 +19,14 @@
 
 ---
 
-<div id="header" align="center"><h1>Power BI Dashboards<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/></h1>
-</div>
-
+### 🎨 Portfólio de Dashboards
 <p align="left">
-  <a href="https://www.behance.net/LRLeite">
-    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
+  <a href="https://www.behance.net/LRLeite" target="_blank">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Dashboards on Behance">
   </a>
+</p>
 
-  ---
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
