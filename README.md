@@ -21,6 +21,22 @@
 
 
 <h2 align="left">Skills: </h2>
+<!--https://home.aveek.io/GitHub-Profile-Badges/
+## 💻 Tech Stack:-->
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) 
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-181825?style=flat&logo=looker&logoColor=blue)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=flat&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00.svg?style=flat&logo=Zapier&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+
+<!--
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="6" />
@@ -33,8 +49,8 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="35" alt="Excel">
   <img width="6" />
   <img src="https://www.freelogovectors.net/wp-content/uploads/2025/06/nsn_logo-freelogovectors.net_-480x480.png" height="35">
-  
-<br>
+-->  
+
 <br>
 
 <!-- Githu Stats from: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes -->
@@ -49,20 +65,8 @@
 <img src="https://raw.githubusercontent.com/LRLeite/LRLeite/output/snake.svg" alt="Snake animation" />
 
 
-<!--
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=power-bi&logoColor=black) 
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-181825?style=flat&logo=looker&logoColor=blue)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Plotly Dash](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+
+
 
 
 
