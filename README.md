@@ -22,17 +22,17 @@
 
 <h2 align="left">Skills: </h2>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="6" />
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="35" alt="Power BI">
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
   <img width="6" />
-  <img src="https://img.icons8.com/color/48/000000/google-looker.png" alt="Looker Studio">
+  <img src="https://img.icons8.com/color/48/000000/google-looker.png" height="35" alt="Looker Studio">
   <img width="6" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="35" alt="Excel">
   <img width="6" />
-  <img src="https://www.freelogovectors.net/wp-content/uploads/2025/06/nsn_logo-freelogovectors.net_-480x480.png" height="48"width="48">
+  <img src="https://www.freelogovectors.net/wp-content/uploads/2025/06/nsn_logo-freelogovectors.net_-480x480.png" height="35">
   
 <br>
 <br>
