@@ -20,9 +20,9 @@
 
 
 
-<h2 align="left">Skills: </h2>
-<!--https://home.aveek.io/GitHub-Profile-Badges/
-## 💻 Tech Stack:-->
+<!--<h2 align="left">Skills: </h2>
+https://home.aveek.io/GitHub-Profile-Badges/
+## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -36,7 +36,6 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-<!--
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="6" />
@@ -49,11 +48,11 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="35" alt="Excel">
   <img width="6" />
   <img src="https://www.freelogovectors.net/wp-content/uploads/2025/06/nsn_logo-freelogovectors.net_-480x480.png" height="35">
--->  
+ 
 
 <br>
 
-<!-- Githu Stats from: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes -->
+Githu Stats from: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes
 <h2 align="left">Languages that I use: </h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LRLeite&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -62,7 +61,7 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/LRLeite/LRLeite/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LRLeite/LRLeite/output/snake.svg" alt="Snake animation" /> -->
 
 
 
