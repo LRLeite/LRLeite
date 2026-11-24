@@ -11,7 +11,7 @@
 ###
 
 * 🔭 Analista de Dados e de Business Intelligence.
-* 🌨️ Estou estudando Análise de Dados e Automações, incluindo: Python, Power BI, SQL, n8n, ...
+<!--* 🌨️ Estou estudando Análise de Dados e Automações, incluindo: Python, Power BI, SQL, n8n, ...-->
 * 📫 Entre em contato comigo: leandro_rafael91@hotmail.com <p align="center">
 
 <br>
